@@ -1,7 +1,7 @@
 package com.hackerRankQuestions
 
 /**
-  * Created by anmol.kapoor on 08/04/16.
+  * paul kelly.
   * Question: https://www.hackerrank.com/challenges/prefix-compression
   */
 object prefixCompression {
